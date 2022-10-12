@@ -1,0 +1,31 @@
+Filters:
+- TypeFullName: MTool.AppBuilder.Editor.Builds.Filters.Concrete.AppBuilderPrepareFilter
+  Action:
+    IsActionQueue: true
+    Childs:
+    - TypeFullName: MTool.AppBuilder.Editor.Builds.Actions.AppPrepare.MakeBaseVerionSetupAction
+      Childs: []
+- TypeFullName: MTool.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesProcessFilter
+  Action:
+    IsActionQueue: true
+    Childs:
+    - TypeFullName: MTool.AppBuilder.Editor.Builds.Actions.ResProcess.GenerateLuaAssetBundleAction
+      Childs: []
+    - TypeFullName: MTool.AppBuilder.Editor.Builds.Actions.ResProcess.AssetBundleAction
+      Childs: []
+- TypeFullName: MTool.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesPackageFilter
+  Action:
+    IsActionQueue: true
+    Childs:
+    - TypeFullName: MTool.AppBuilder.Editor.Builds.Actions.ResPack.ConstructResStorageAction
+      Childs: []
+    - TypeFullName: MTool.AppBuilder.Editor.Builds.Actions.ResPack.CopyLuaAssetBundleToUploadStorageAction
+      Childs: []
+    - TypeFullName: MTool.AppBuilder.Editor.Builds.Actions.ResPack.ConstructStreamingAssetsAction
+      Childs: []
+    - TypeFullName: MTool.AppBuilder.Editor.Builds.Actions.ResPack.ClearLuaBytesAction
+      Childs: []
+    - TypeFullName: MTool.AppBuilder.Editor.Builds.Actions.ResPack.MakeAppBaseVersionAction
+      Childs: []
+    - TypeFullName: MTool.AppBuilder.Editor.Builds.Actions.ResPack.ExportBuildReportAction
+      Childs: []

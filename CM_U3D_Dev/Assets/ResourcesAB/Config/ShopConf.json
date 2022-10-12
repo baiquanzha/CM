@@ -1,0 +1,4236 @@
+
+[
+    {
+        "goodsId" : 1,
+        "productName" : "Handful of Coins",
+        "productType" : [
+            1
+        ],
+        "product"     : [
+            2,
+            150
+        ],
+        "description" : "Coin pack! Allows you to buy Energy or useful goods in the market.",
+        "unitPrice"   : [
+            0
+        ],
+        "diamondUnitPrice" : 35,
+        "limit"            : 0,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "icon_jinbizu1",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 2,
+        "productName" : "Coin Pouch",
+        "productType" : [
+            1
+        ],
+        "product"     : [
+            2,
+            1000
+        ],
+        "description" : "Coin pack! Allows you to buy Energy or useful goods in the market.",
+        "unitPrice"   : [
+            0
+        ],
+        "diamondUnitPrice" : 225,
+        "limit"            : 0,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "icon_jinbizu2",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 3,
+        "productName" : "Coin Chest",
+        "productType" : [
+            1
+        ],
+        "product"     : [
+            2,
+            2500
+        ],
+        "description" : "Coin pack! Allows you to buy Energy or useful goods in the market.",
+        "unitPrice"   : [
+            0
+        ],
+        "diamondUnitPrice" : 545,
+        "limit"            : 0,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "icon_jinbizu3",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 11,
+        "productName" : "Sugar Seeds Lv.1",
+        "productType" : [
+            2,
+            1
+        ],
+        "product"     : [
+            12040,
+            1
+        ],
+        "description" : "Buy and open this chest to speed things up!",
+        "unitPrice"   : [
+            15
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 3,
+        "tagName"          : "",
+        "groupId"          : 1,
+        "weight"           : 33,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 12,
+        "productName" : "Sugar Seeds Lv.2",
+        "productType" : [
+            2,
+            1
+        ],
+        "product"     : [
+            12041,
+            1
+        ],
+        "description" : "Buy and open this chest to speed things up!",
+        "unitPrice"   : [
+            50
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 3,
+        "tagName"          : "",
+        "groupId"          : 1,
+        "weight"           : 33,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 13,
+        "productName" : "Sugar Seeds Lv.3",
+        "productType" : [
+            2,
+            1
+        ],
+        "product"     : [
+            12042,
+            1
+        ],
+        "description" : "Buy and open this chest to speed things up!",
+        "unitPrice"   : [
+            150
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 3,
+        "tagName"          : "",
+        "groupId"          : 1,
+        "weight"           : 33,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 20,
+        "productName" : "Grape",
+        "productType" : [
+            2,
+            2
+        ],
+        "product"     : [
+            13004,
+            5
+        ],
+        "description" : "You need ingredients to complete orders and earn rewards!",
+        "unitPrice"   : [
+            75
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 6,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 21,
+        "productName" : "Apple",
+        "productType" : [
+            2,
+            2
+        ],
+        "product"     : [
+            13014,
+            5
+        ],
+        "description" : "You need ingredients to complete orders and earn rewards!",
+        "unitPrice"   : [
+            75
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 6,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 22,
+        "productName" : "Pumpkin",
+        "productType" : [
+            2,
+            2
+        ],
+        "product"     : [
+            13024,
+            5
+        ],
+        "description" : "You need ingredients to complete orders and earn rewards!",
+        "unitPrice"   : [
+            75
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 6,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 23,
+        "productName" : "Blueberry",
+        "productType" : [
+            2,
+            2
+        ],
+        "product"     : [
+            13034,
+            5
+        ],
+        "description" : "You need ingredients to complete orders and earn rewards!",
+        "unitPrice"   : [
+            75
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 6,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 51,
+        "productName" : "Dee\u2019s Chest Lv.1",
+        "productType" : [
+            3,
+            1
+        ],
+        "product"     : [
+            10000,
+            1
+        ],
+        "description" : "Buy and open this chest to speed things up!",
+        "unitPrice"   : [
+            50
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 2,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 52,
+        "productName" : "Dee\u2019s Chest Lv.2",
+        "productType" : [
+            3,
+            1
+        ],
+        "product"     : [
+            10001,
+            1
+        ],
+        "description" : "Buy and open this chest to speed things up!",
+        "unitPrice"   : [
+            150
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 2,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 53,
+        "productName" : "Dee\u2019s Chest Lv.3",
+        "productType" : [
+            3,
+            1
+        ],
+        "product"     : [
+            10002,
+            1
+        ],
+        "description" : "Buy and open this chest to speed things up!",
+        "unitPrice"   : [
+            0
+        ],
+        "diamondUnitPrice" : 90,
+        "limit"            : 2,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 201,
+        "productName" : "Sofa Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1000,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            8
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 2,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 202,
+        "productName" : "Sofa Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1001,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            25
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 2,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 203,
+        "productName" : "Sofa Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1002,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            75
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 2,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 204,
+        "productName" : "Sofa Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1003,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            225
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 2,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 205,
+        "productName" : "Sofa Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1004,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            675
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 2,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 221,
+        "productName" : "TV Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1020,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            10
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 3,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 222,
+        "productName" : "TV Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1021,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            30
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 3,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 223,
+        "productName" : "TV Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1022,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            90
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 3,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 224,
+        "productName" : "TV Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1023,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            270
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 3,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 225,
+        "productName" : "TV Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1024,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            810
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 3,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 241,
+        "productName" : "Tea Writing Desk Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1040,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 4,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 242,
+        "productName" : "Tea Writing Desk Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1041,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 4,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 243,
+        "productName" : "Tea Writing Desk Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1042,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 4,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 244,
+        "productName" : "Tea Writing Desk Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1043,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 4,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 245,
+        "productName" : "Tea Writing Desk Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1044,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 4,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 261,
+        "productName" : "Refrigerator Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1060,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 5,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 262,
+        "productName" : "Refrigerator Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1061,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 5,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 263,
+        "productName" : "Refrigerator Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1062,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 5,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 264,
+        "productName" : "Refrigerator Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1063,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 5,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 265,
+        "productName" : "Refrigerator Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1064,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 5,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 281,
+        "productName" : "Cooking Bench Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1080,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 6,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 282,
+        "productName" : "Cooking Bench Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1081,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 6,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 283,
+        "productName" : "Cooking Bench Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1082,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 6,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 284,
+        "productName" : "Cooking Bench Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1083,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 6,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 285,
+        "productName" : "Cooking Bench Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1084,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 6,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 291,
+        "productName" : "Cupboard Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1090,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 7,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 292,
+        "productName" : "Cupboard Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1091,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 7,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 293,
+        "productName" : "Cupboard Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1092,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 7,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 294,
+        "productName" : "Cupboard Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1093,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 7,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 295,
+        "productName" : "Cupboard Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1094,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 7,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 301,
+        "productName" : "Writing Desk Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1100,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 8,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 302,
+        "productName" : "Writing Desk Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1101,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 8,
+        "weight"           : 30,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 303,
+        "productName" : "Writing Desk Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1102,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 8,
+        "weight"           : 30,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 304,
+        "productName" : "Writing Desk Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1103,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 8,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 305,
+        "productName" : "Writing Desk Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1104,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 8,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 311,
+        "productName" : "Bed Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1110,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 9,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 312,
+        "productName" : "Bed Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1111,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 9,
+        "weight"           : 30,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 313,
+        "productName" : "Bed Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1112,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 9,
+        "weight"           : 30,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 314,
+        "productName" : "Bed Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1113,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 9,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 315,
+        "productName" : "Bed Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1114,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 9,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 321,
+        "productName" : "Lamp Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1120,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 10,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 322,
+        "productName" : "Lamp Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1121,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 10,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 323,
+        "productName" : "Lamp Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1122,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 10,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 324,
+        "productName" : "Lamp Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1123,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 10,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 325,
+        "productName" : "Lamp Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1124,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 10,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 331,
+        "productName" : "Wardrobe Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1130,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 11,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 332,
+        "productName" : "Wardrobe Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1131,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 11,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 333,
+        "productName" : "Wardrobe Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1132,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 11,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 334,
+        "productName" : "Wardrobe Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1133,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 11,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 335,
+        "productName" : "Wardrobe Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1134,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 11,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 341,
+        "productName" : "Carpet Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1140,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 12,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 342,
+        "productName" : "Carpet Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1141,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 12,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 343,
+        "productName" : "Carpet Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1142,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 12,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 344,
+        "productName" : "Carpet Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1143,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 12,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 345,
+        "productName" : "Carpet Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1144,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 12,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 351,
+        "productName" : "Grill Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1150,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 13,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 352,
+        "productName" : "Grill Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1151,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 13,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 353,
+        "productName" : "Grill Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1152,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 13,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 354,
+        "productName" : "Grill Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1153,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 13,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 355,
+        "productName" : "Grill Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1154,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 13,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 361,
+        "productName" : "Scale Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1300,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 14,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 362,
+        "productName" : "Scale Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1301,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 14,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 363,
+        "productName" : "Scale Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1302,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 14,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 364,
+        "productName" : "Scale Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1303,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 14,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 365,
+        "productName" : "Scale Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1304,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 14,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 371,
+        "productName" : "Display Case Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1200,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 15,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 372,
+        "productName" : "Display Case Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1201,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 15,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 373,
+        "productName" : "Display Case Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1202,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 15,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 374,
+        "productName" : "Display Case Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1203,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 15,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 375,
+        "productName" : "Display Case Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1204,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 15,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 381,
+        "productName" : "Bread Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1260,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 16,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 382,
+        "productName" : "Bread Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1261,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 16,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 383,
+        "productName" : "Bread Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1262,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 16,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 384,
+        "productName" : "Bread Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1263,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 16,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 385,
+        "productName" : "Bread Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1264,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 16,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 391,
+        "productName" : "Teacup Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1290,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 17,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 392,
+        "productName" : "Teacup Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1291,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 17,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 393,
+        "productName" : "Teacup Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1292,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 17,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 394,
+        "productName" : "Teacup Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1293,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 17,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 395,
+        "productName" : "Teacup Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1294,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 17,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 401,
+        "productName" : "Donut Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1210,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 18,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 402,
+        "productName" : "Donut Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1211,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 18,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 403,
+        "productName" : "Donut Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1212,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 18,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 404,
+        "productName" : "Donut Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1213,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 18,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 405,
+        "productName" : "Donut Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1214,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 18,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 411,
+        "productName" : "Cheesecake Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1240,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 19,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 412,
+        "productName" : "Cheesecake Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1241,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 19,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 413,
+        "productName" : "Cheesecake Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1242,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 19,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 414,
+        "productName" : "Cheesecake Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1243,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 19,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 415,
+        "productName" : "Cheesecake Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1244,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 19,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 421,
+        "productName" : "Egg whisk Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1270,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 20,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 422,
+        "productName" : "Egg whisk Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1271,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 20,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 423,
+        "productName" : "Egg whisk Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1272,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 20,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 424,
+        "productName" : "Egg whisk Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1273,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 20,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 425,
+        "productName" : "Egg whisk Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1274,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 20,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 431,
+        "productName" : "Flour Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1320,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 21,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 432,
+        "productName" : "Flour Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1321,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 21,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 433,
+        "productName" : "Flour Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1322,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 21,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 434,
+        "productName" : "Flour Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1323,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 21,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 435,
+        "productName" : "Flour Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1324,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 21,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 441,
+        "productName" : "Oven Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1280,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 22,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 442,
+        "productName" : "Oven Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1281,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 22,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 443,
+        "productName" : "Oven Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1282,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 22,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 444,
+        "productName" : "Oven Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1283,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 22,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 445,
+        "productName" : "Oven Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1284,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 22,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 451,
+        "productName" : "Waffle Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1250,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 23,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 452,
+        "productName" : "Waffle Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1251,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 23,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 453,
+        "productName" : "Waffle Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1252,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 23,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 454,
+        "productName" : "Waffle Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1253,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 23,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 455,
+        "productName" : "Waffle Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1254,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 23,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 461,
+        "productName" : "Cupcake Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1220,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 24,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 462,
+        "productName" : "Cupcake Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1221,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 24,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 463,
+        "productName" : "Cupcake Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1222,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 24,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 464,
+        "productName" : "Cupcake Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1223,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 24,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 465,
+        "productName" : "Cupcake Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1224,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 24,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 471,
+        "productName" : "Cookies Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1230,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 25,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 472,
+        "productName" : "Cookies Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1231,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 25,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 473,
+        "productName" : "Cookies Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1232,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 25,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 474,
+        "productName" : "Cookies Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1233,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 25,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 475,
+        "productName" : "Cookies Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1234,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 25,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 481,
+        "productName" : "Chalkboard Lv.1",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1310,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            12
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 26,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 482,
+        "productName" : "Chalkboard Lv.2",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1311,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            35
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 26,
+        "weight"           : 50,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 483,
+        "productName" : "Chalkboard Lv.3",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1312,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            105
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 26,
+        "weight"           : 40,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 484,
+        "productName" : "Chalkboard Lv.4",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1313,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            315
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 26,
+        "weight"           : 20,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 485,
+        "productName" : "Chalkboard Lv.5",
+        "productType" : [
+            3,
+            2
+        ],
+        "product"     : [
+            1314,
+            1
+        ],
+        "description" : "Use these pieces to renovate houses",
+        "unitPrice"   : [
+            945
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 26,
+        "weight"           : 10,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 1001,
+        "productName" : "Energy Game",
+        "productType" : [
+            5,
+            1
+        ],
+        "product"     : [
+            0
+        ],
+        "description" : "A lottery-like game, with 50-150 energy on offer for players.",
+        "unitPrice"   : [
+            0
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "icon_letoutl",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 0
+    },
+    {
+        "goodsId" : 1002,
+        "productName" : "Energy Pack",
+        "productType" : [
+            5,
+            2
+        ],
+        "product"     : [
+            4,
+            80
+        ],
+        "description" : "Buy energy to keep progressing!",
+        "unitPrice"   : [
+            350,
+            350,
+            350,
+            700,
+            700,
+            1050
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 0,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "icon_tililb",
+        "bonus"            : [
+            4,
+            10
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 0
+    },
+    {
+        "goodsId" : 1003,
+        "productName" : "Bonus Energy",
+        "productType" : [
+            5,
+            3
+        ],
+        "product"     : [
+            4,
+            30
+        ],
+        "description" : "",
+        "unitPrice"   : [
+            0
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 5,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "shop_tlx",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 0
+    },
+    {
+        "goodsId" : 1010,
+        "productName" : "Small Crystal",
+        "productType" : [
+            4
+        ],
+        "product"     : [
+            12020,
+            1
+        ],
+        "description" : "Magic Crystals allow you to make merges when there aren't enough pieces. It's kinda like\u2026 magic!",
+        "unitPrice"   : [
+            75
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 1,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 1011,
+        "productName" : "Magic Crystal",
+        "productType" : [
+            4
+        ],
+        "product"     : [
+            12023,
+            1
+        ],
+        "description" : "Magic Crystals allow you to make merges when there aren't enough pieces. It's kinda like\u2026 magic!",
+        "unitPrice"   : [
+            0
+        ],
+        "diamondUnitPrice" : 195,
+        "limit"            : 1,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 1012,
+        "productName" : "Red Elf",
+        "productType" : [
+            4,
+            1
+        ],
+        "product"     : [
+            12034,
+            2
+        ],
+        "description" : "One Red Elf reduces build time by a total of 1 HOUR. Use it on several short-build timers. Any remaining build time will be completed at the normal rate.",
+        "unitPrice"   : [
+            0
+        ],
+        "diamondUnitPrice" : 150,
+        "limit"            : 2,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 1
+    },
+    {
+        "goodsId" : 1013,
+        "productName" : "Free Chest",
+        "productType" : [
+            4
+        ],
+        "product"     : [
+            12060,
+            1
+        ],
+        "description" : "Buy and open this chest to speed things up!",
+        "unitPrice"   : [
+            0
+        ],
+        "diamondUnitPrice" : 0,
+        "limit"            : 1,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            0
+        ],
+        "isRefresh"        : 0
+    },
+    {
+        "goodsId" : 1014,
+        "productName" : "Key Lv.1",
+        "productType" : [
+            4
+        ],
+        "product"     : [
+            12070,
+            1
+        ],
+        "description" : "Use the key to clear the fog",
+        "unitPrice"   : [
+            0
+        ],
+        "diamondUnitPrice" : 15,
+        "limit"            : 2,
+        "tagName"          : "",
+        "groupId"          : 0,
+        "weight"           : 0,
+        "resName"          : "",
+        "bonus"            : [
+            0
+        ],
+        "unlockCondition"  : [
+            2,
+            6
+        ],
+        "isRefresh"        : 1
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<linker>
+  <assembly fullname="MTool.FrameworkModule" preserve="all">
+    <type fullname="MTool.FrameworkModule.Http.HttpManager" preserve="all" />
+	<type fullname="MTool.FrameworkModule.Http.UIManager" preserve="all" />
+	<type fullname="MTool.FrameworkModule.Http.NetworkManager" preserve="all" />
+	<type fullname="MTool.FrameworkModule.Http.LuaManager" preserve="all" />
+  </assembly>
+</linker>

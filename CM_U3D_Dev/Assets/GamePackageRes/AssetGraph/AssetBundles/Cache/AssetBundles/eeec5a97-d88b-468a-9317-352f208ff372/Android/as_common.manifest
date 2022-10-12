@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2892918480
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a46d86ea4bcd9cdcac496f48a1b2a832
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a354baa3bcdaca8cba5e1ac053aaeade
+HashAppended: 0
+ClassTypes:
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameResources/UI/common/btn_lv1.png
+- Assets/GameResources/UI/common/frame4.png
+- Assets/GameResources/UI/common/common_hd.png
+- Assets/GameResources/UI/common/frame3.png
+- Assets/GameResources/UI/common/btn_hong1.png
+- Assets/GameResources/UI/common/frame1.png
+- Assets/GameResources/UI/common/btn_hui1.png
+- Assets/GameResources/UI/common/common_di2.png
+- Assets/GameResources/UI/common/common_di1.png
+- Assets/GameResources/UI/common/qipao.png
+- Assets/GameResources/UI/common/btn_lan1.png
+- Assets/GameResources/UI/common/frame2.png
+- Assets/GameResources/UI/common/common_close.png
+Dependencies: []

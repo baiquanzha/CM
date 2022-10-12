@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 108c2ba5daba841b79b8cc5db3dba1fb, type: 3}
+  m_Name: AssetBundleBuildMap
+  m_EditorClassIdentifier: 
+  m_assetBundles:
+  - m_assetBundleName: atlas/atlas_common
+    m_assetBundleVariantName: 
+    m_fullName: atlas/atlas_common
+    m_assets:
+    - original: Assets/ResourcesAB/Atlas/atlas_common.spriteatlas
+      lower: assets/resourcesab/atlas/atlas_common.spriteatlas
+    m_registererId: dcf660fb-9511-4e82-ab94-642e6259f7f4
+  - m_assetBundleName: config
+    m_assetBundleVariantName: 
+    m_fullName: config
+    m_assets:
+    - original: Assets/ResourcesAB/Config/BuildingConf.json
+      lower: assets/resourcesab/config/buildingconf.json
+    - original: Assets/ResourcesAB/Config/BundleConf.json
+      lower: assets/resourcesab/config/bundleconf.json
+    - original: Assets/ResourcesAB/Config/ItemConf.json
+      lower: assets/resourcesab/config/itemconf.json
+    - original: Assets/ResourcesAB/Config/ShopConf.json
+      lower: assets/resourcesab/config/shopconf.json
+    m_registererId: dcf660fb-9511-4e82-ab94-642e6259f7f4
+  - m_assetBundleName: atlas_sprites/as_common
+    m_assetBundleVariantName: 
+    m_fullName: atlas_sprites/as_common
+    m_assets:
+    - original: Assets/GameResources/UI/common/btn_hong1.png
+      lower: assets/gameresources/ui/common/btn_hong1.png
+    - original: Assets/GameResources/UI/common/btn_hui1.png
+      lower: assets/gameresources/ui/common/btn_hui1.png
+    - original: Assets/GameResources/UI/common/btn_lan1.png
+      lower: assets/gameresources/ui/common/btn_lan1.png
+    - original: Assets/GameResources/UI/common/btn_lv1.png
+      lower: assets/gameresources/ui/common/btn_lv1.png
+    - original: Assets/GameResources/UI/common/common_close.png
+      lower: assets/gameresources/ui/common/common_close.png
+    - original: Assets/GameResources/UI/common/common_di1.png
+      lower: assets/gameresources/ui/common/common_di1.png
+    - original: Assets/GameResources/UI/common/common_di2.png
+      lower: assets/gameresources/ui/common/common_di2.png
+    - original: Assets/GameResources/UI/common/common_hd.png
+      lower: assets/gameresources/ui/common/common_hd.png
+    - original: Assets/GameResources/UI/common/frame1.png
+      lower: assets/gameresources/ui/common/frame1.png
+    - original: Assets/GameResources/UI/common/frame2.png
+      lower: assets/gameresources/ui/common/frame2.png
+    - original: Assets/GameResources/UI/common/frame3.png
+      lower: assets/gameresources/ui/common/frame3.png
+    - original: Assets/GameResources/UI/common/frame4.png
+      lower: assets/gameresources/ui/common/frame4.png
+    - original: Assets/GameResources/UI/common/qipao.png
+      lower: assets/gameresources/ui/common/qipao.png
+    m_registererId: 60a3190e-14d2-4da7-a814-29d461bf7051
+  m_version: 1

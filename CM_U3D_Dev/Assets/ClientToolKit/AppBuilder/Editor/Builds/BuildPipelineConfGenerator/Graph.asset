@@ -1,0 +1,1997 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e74b9fdfc8fd248b1809aaacd52fb0, type: 3}
+  m_Name: Graph
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 114800401474477600}
+  - {fileID: 114128534286880888}
+  - {fileID: 114531947077639380}
+  - {fileID: 114263392924878588}
+  - {fileID: 114339230345430048}
+  - {fileID: 114717971241734136}
+  - {fileID: 114782583350699132}
+  - {fileID: 114987466018202928}
+  - {fileID: 114411469821307544}
+  - {fileID: 114738298488398600}
+  - {fileID: 114794967657056350}
+  - {fileID: 114036273543557306}
+  - {fileID: 114857196041214584}
+  - {fileID: 114582287710645104}
+  - {fileID: 114828879871842226}
+  - {fileID: 114439946108394666}
+  - {fileID: 114517486270027430}
+  - {fileID: 114439194164719948}
+  - {fileID: 114722528775219618}
+  - {fileID: 114036968391486388}
+  - {fileID: 114206059016277690}
+  - {fileID: 114669881837539904}
+  - {fileID: 114831542681073706}
+  - {fileID: 114222695228537348}
+  - {fileID: 114835860762663780}
+  - {fileID: 114931326474907386}
+  - {fileID: 114428813835900778}
+  - {fileID: 114928830154938846}
+  - {fileID: 114022664994483052}
+  - {fileID: 114650591606073298}
+  - {fileID: 114609850703862594}
+  - {fileID: 114146909116725698}
+  - {fileID: 114817317328049046}
+  - {fileID: 114500001504083286}
+  - {fileID: 114542587881965074}
+  - {fileID: 114363416925251734}
+  - {fileID: 114846991173309900}
+  - {fileID: 114546633558411986}
+--- !u!114 &114022664994483052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -712, y: 2568}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114022664994483052}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114517486270027430}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114022664994483052}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114036968391486388}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 11
+  actionName: ExportBuildReportAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ExportBuildReportAction
+--- !u!114 &114036273543557306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -888, y: 472}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114036273543557306}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114128534286880888}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114036273543557306}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114339230345430048}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 8
+  actionName: ConstructStreamingAssetsAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ConstructStreamingAssetsAction
+--- !u!114 &114036968391486388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c27e514e539afc4298028f132d07a25, type: 3}
+  m_Name: Multi Build Filter
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -248, y: 1960}
+  ports:
+    keys:
+    - filterTypes
+    - json
+    - actions
+    values:
+    - _fieldName: filterTypes
+      _node: {fileID: 114036968391486388}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114222695228537348}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: json
+      _node: {fileID: 114036968391486388}
+      _typeQualifiedName: CenturyGame.AppBuilder.Runtime.BuildPipelineConfGenerator.FilterOutput,
+        CenturyGame.AppBuilder.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: filterOutputs
+        node: {fileID: 114439946108394666}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actions
+      _node: {fileID: 114036968391486388}
+      _typeQualifiedName: System.String[], mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actionFullName
+        node: {fileID: 114835860762663780}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114146909116725698}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114931326474907386}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114428813835900778}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114928830154938846}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114650591606073298}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114022664994483052}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  filterTypes:
+    typeNames: []
+  filterIdx: 0
+  filterName: ResourcesPackageFilter
+  actions: []
+--- !u!114 &114128534286880888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f9908d2dfaf3374fa939cad9ea5a879, type: 3}
+  m_Name: Namespace Types
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -1384, y: 520}
+  ports:
+    keys:
+    - outPut
+    values:
+    - _fieldName: outPut
+      _node: {fileID: 114128534286880888}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: actionTypes
+        node: {fileID: 114717971241734136}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114782583350699132}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114531947077639380}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114738298488398600}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114794967657056350}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114036273543557306}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114857196041214584}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114582287710645104}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114828879871842226}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114609850703862594}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114817317328049046}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  nodeType: 1
+  outPut:
+    typeNames:
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.AssetBundleAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.GameTableDataLocalRepositoryGenerateBuildAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.GenerateLuaAssetBundleAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.ProcessDataResAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.AssetBundleFilesPackAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.BaseMakeVersionAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ClearLuaBytesAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ConstructResStorageAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ConstructStreamingAssetsAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.CopyLuaAssetBundleToUploadStorageAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.CopyLuaGenCodeToStreamingAssetsAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ExportBuildReportAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.FileVersionManifestGenerateAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.LuaScriptsCopyAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.MakeAppBaseVersionAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.MakeAppPatchVersionAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.SaveBaseVersionUnityResInfoAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.UploadFilesAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.AppPrepare.MakeBaseVerionSetupAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.AppPrepare.MakePatchVerionSetupAction
+--- !u!114 &114146909116725698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -712, y: 1928}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114146909116725698}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114517486270027430}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114146909116725698}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114036968391486388}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 9
+  actionName: CopyLuaAssetBundleToUploadStorageAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.CopyLuaAssetBundleToUploadStorageAction
+--- !u!114 &114206059016277690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -728, y: 1496}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114206059016277690}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114517486270027430}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114206059016277690}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114722528775219618}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 0
+  actionName: AssetBundleAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.AssetBundleAction
+--- !u!114 &114222695228537348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f9908d2dfaf3374fa939cad9ea5a879, type: 3}
+  m_Name: Namespace Types
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -248, y: 2376}
+  ports:
+    keys:
+    - outPut
+    values:
+    - _fieldName: outPut
+      _node: {fileID: 114222695228537348}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: filterTypes
+        node: {fileID: 114036968391486388}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  nodeType: 0
+  outPut:
+    typeNames:
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesPackageFilter
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesProcessFilter
+--- !u!114 &114263392924878588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c27e514e539afc4298028f132d07a25, type: 3}
+  m_Name: Multi Build Filter
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -424, y: -232}
+  ports:
+    keys:
+    - filterTypes
+    - json
+    - actions
+    values:
+    - _fieldName: filterTypes
+      _node: {fileID: 114263392924878588}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114987466018202928}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: json
+      _node: {fileID: 114263392924878588}
+      _typeQualifiedName: CenturyGame.AppBuilder.Runtime.BuildPipelineConfGenerator.FilterOutput,
+        CenturyGame.AppBuilder.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: filterOutputs
+        node: {fileID: 114800401474477600}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actions
+      _node: {fileID: 114263392924878588}
+      _typeQualifiedName: System.String[], mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actionFullName
+        node: {fileID: 114531947077639380}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114717971241734136}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114782583350699132}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  filterTypes:
+    typeNames: []
+  filterIdx: 1
+  filterName: ResourcesProcessFilter
+  actions: []
+--- !u!114 &114339230345430048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c27e514e539afc4298028f132d07a25, type: 3}
+  m_Name: Multi Build Filter
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -424, y: 280}
+  ports:
+    keys:
+    - filterTypes
+    - json
+    - actions
+    values:
+    - _fieldName: filterTypes
+      _node: {fileID: 114339230345430048}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114411469821307544}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: json
+      _node: {fileID: 114339230345430048}
+      _typeQualifiedName: CenturyGame.AppBuilder.Runtime.BuildPipelineConfGenerator.FilterOutput,
+        CenturyGame.AppBuilder.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: filterOutputs
+        node: {fileID: 114800401474477600}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actions
+      _node: {fileID: 114339230345430048}
+      _typeQualifiedName: System.String[], mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actionFullName
+        node: {fileID: 114738298488398600}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114609850703862594}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114794967657056350}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114036273543557306}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114857196041214584}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114828879871842226}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114582287710645104}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  filterTypes:
+    typeNames: []
+  filterIdx: 0
+  filterName: ResourcesPackageFilter
+  actions: []
+--- !u!114 &114363416925251734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f9908d2dfaf3374fa939cad9ea5a879, type: 3}
+  m_Name: Namespace Types
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -344, y: 904}
+  ports:
+    keys:
+    - outPut
+    values:
+    - _fieldName: outPut
+      _node: {fileID: 114363416925251734}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: filterTypes
+        node: {fileID: 114546633558411986}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  nodeType: 0
+  outPut:
+    typeNames:
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.AppBuilderPrepareFilter
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesPackageFilter
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesProcessFilter
+--- !u!114 &114411469821307544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f9908d2dfaf3374fa939cad9ea5a879, type: 3}
+  m_Name: Namespace Types
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -424, y: 696}
+  ports:
+    keys:
+    - outPut
+    values:
+    - _fieldName: outPut
+      _node: {fileID: 114411469821307544}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: filterTypes
+        node: {fileID: 114339230345430048}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  nodeType: 0
+  outPut:
+    typeNames:
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesPackageFilter
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesProcessFilter
+--- !u!114 &114428813835900778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -712, y: 2184}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114428813835900778}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114517486270027430}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114428813835900778}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114036968391486388}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 8
+  actionName: ConstructStreamingAssetsAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ConstructStreamingAssetsAction
+--- !u!114 &114439194164719948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -728, y: 1368}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114439194164719948}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114517486270027430}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114439194164719948}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114722528775219618}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 2
+  actionName: GenerateLuaAssetBundleAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.GenerateLuaAssetBundleAction
+--- !u!114 &114439946108394666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab40323f90fe8144b374ea4b9494a5a, type: 3}
+  m_Name: "\u5236\u4F5C\u5DEE\u5F02\u914D\u7F6E"
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 200, y: 1592}
+  ports:
+    keys:
+    - filterOutputs
+    - configName
+    values:
+    - _fieldName: filterOutputs
+      _node: {fileID: 114439946108394666}
+      _typeQualifiedName: CenturyGame.AppBuilder.Runtime.BuildPipelineConfGenerator.FilterOutput[],
+        CenturyGame.AppBuilder.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: json
+        node: {fileID: 114546633558411986}
+        reroutePoints: []
+      - fieldName: json
+        node: {fileID: 114722528775219618}
+        reroutePoints: []
+      - fieldName: json
+        node: {fileID: 114036968391486388}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: configName
+      _node: {fileID: 114439946108394666}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  filterOutputs: []
+  configName: MakePatchVersion
+--- !u!114 &114500001504083286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c27e514e539afc4298028f132d07a25, type: 3}
+  m_Name: Multi Build Filter
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -392, y: -712}
+  ports:
+    keys:
+    - filterTypes
+    - actions
+    - json
+    values:
+    - _fieldName: filterTypes
+      _node: {fileID: 114500001504083286}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114542587881965074}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actions
+      _node: {fileID: 114500001504083286}
+      _typeQualifiedName: System.String[], mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actionFullName
+        node: {fileID: 114817317328049046}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: json
+      _node: {fileID: 114500001504083286}
+      _typeQualifiedName: CenturyGame.AppBuilder.Runtime.BuildPipelineConfGenerator.FilterOutput,
+        CenturyGame.AppBuilder.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: filterOutputs
+        node: {fileID: 114800401474477600}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  filterTypes:
+    typeNames: []
+  filterIdx: 0
+  filterName: AppBuilderPrepareFilter
+  actions: []
+--- !u!114 &114517486270027430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f9908d2dfaf3374fa939cad9ea5a879, type: 3}
+  m_Name: Namespace Types
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -1208, y: 2200}
+  ports:
+    keys:
+    - outPut
+    values:
+    - _fieldName: outPut
+      _node: {fileID: 114517486270027430}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: actionTypes
+        node: {fileID: 114206059016277690}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114669881837539904}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114439194164719948}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114835860762663780}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114931326474907386}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114428813835900778}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114928830154938846}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114022664994483052}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114650591606073298}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114146909116725698}
+        reroutePoints: []
+      - fieldName: actionTypes
+        node: {fileID: 114846991173309900}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  nodeType: 1
+  outPut:
+    typeNames:
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.AssetBundleAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.GameTableDataLocalRepositoryGenerateBuildAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.GenerateLuaAssetBundleAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.ProcessDataResAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.AssetBundleFilesPackAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.BaseMakeVersionAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ClearLuaBytesAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ConstructResStorageAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ConstructStreamingAssetsAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.CopyLuaAssetBundleToUploadStorageAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.CopyLuaGenCodeToStreamingAssetsAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ExportBuildReportAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.FileVersionManifestGenerateAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.LuaScriptsCopyAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.MakeAppBaseVersionAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.MakeAppPatchVersionAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.SaveBaseVersionUnityResInfoAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.UploadFilesAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.AppPrepare.MakeBaseVerionSetupAction
+    - CenturyGame.AppBuilder.Editor.Builds.Actions.AppPrepare.MakePatchVerionSetupAction
+--- !u!114 &114531947077639380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -904, y: -296}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114531947077639380}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114128534286880888}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114531947077639380}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114263392924878588}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 2
+  actionName: GenerateLuaAssetBundleAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.GenerateLuaAssetBundleAction
+--- !u!114 &114542587881965074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f9908d2dfaf3374fa939cad9ea5a879, type: 3}
+  m_Name: Namespace Types
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -664, y: -936}
+  ports:
+    keys:
+    - outPut
+    values:
+    - _fieldName: outPut
+      _node: {fileID: 114542587881965074}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: filterTypes
+        node: {fileID: 114500001504083286}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  nodeType: 0
+  outPut:
+    typeNames:
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.AppBuilderPrepareFilter
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesPackageFilter
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesProcessFilter
+--- !u!114 &114546633558411986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c27e514e539afc4298028f132d07a25, type: 3}
+  m_Name: Multi Build Filter
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -264, y: 1080}
+  ports:
+    keys:
+    - filterTypes
+    - actions
+    - json
+    values:
+    - _fieldName: filterTypes
+      _node: {fileID: 114546633558411986}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114363416925251734}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actions
+      _node: {fileID: 114546633558411986}
+      _typeQualifiedName: System.String[], mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actionFullName
+        node: {fileID: 114846991173309900}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: json
+      _node: {fileID: 114546633558411986}
+      _typeQualifiedName: CenturyGame.AppBuilder.Runtime.BuildPipelineConfGenerator.FilterOutput,
+        CenturyGame.AppBuilder.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: filterOutputs
+        node: {fileID: 114439946108394666}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  filterTypes:
+    typeNames: []
+  filterIdx: 0
+  filterName: AppBuilderPrepareFilter
+  actions: []
+--- !u!114 &114582287710645104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -888, y: 856}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114582287710645104}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114128534286880888}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114582287710645104}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114339230345430048}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 11
+  actionName: ExportBuildReportAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ExportBuildReportAction
+--- !u!114 &114609850703862594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -888, y: 216}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114609850703862594}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114128534286880888}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114609850703862594}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114339230345430048}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 9
+  actionName: CopyLuaAssetBundleToUploadStorageAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.CopyLuaAssetBundleToUploadStorageAction
+--- !u!114 &114650591606073298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -712, y: 2440}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114650591606073298}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114517486270027430}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114650591606073298}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114036968391486388}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 15
+  actionName: MakeAppPatchVersionAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.MakeAppPatchVersionAction
+--- !u!114 &114669881837539904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -728, y: 1608}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114669881837539904}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114517486270027430}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114669881837539904}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114722528775219618}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 1
+  actionName: GameTableDataLocalRepositoryGenerateBuildAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.GameTableDataLocalRepositoryGenerateBuildAction
+--- !u!114 &114717971241734136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -904, y: -184}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114717971241734136}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114128534286880888}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114717971241734136}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114263392924878588}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 0
+  actionName: AssetBundleAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.AssetBundleAction
+--- !u!114 &114722528775219618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c27e514e539afc4298028f132d07a25, type: 3}
+  m_Name: Multi Build Filter
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -248, y: 1448}
+  ports:
+    keys:
+    - filterTypes
+    - json
+    - actions
+    values:
+    - _fieldName: filterTypes
+      _node: {fileID: 114722528775219618}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114831542681073706}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: json
+      _node: {fileID: 114722528775219618}
+      _typeQualifiedName: CenturyGame.AppBuilder.Runtime.BuildPipelineConfGenerator.FilterOutput,
+        CenturyGame.AppBuilder.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: filterOutputs
+        node: {fileID: 114439946108394666}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actions
+      _node: {fileID: 114722528775219618}
+      _typeQualifiedName: System.String[], mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actionFullName
+        node: {fileID: 114439194164719948}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114206059016277690}
+        reroutePoints: []
+      - fieldName: actionFullName
+        node: {fileID: 114669881837539904}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  filterTypes:
+    typeNames: []
+  filterIdx: 1
+  filterName: ResourcesProcessFilter
+  actions: []
+--- !u!114 &114738298488398600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -888, y: 88}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114738298488398600}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114128534286880888}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114738298488398600}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114339230345430048}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 7
+  actionName: ConstructResStorageAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ConstructResStorageAction
+--- !u!114 &114782583350699132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -904, y: -72}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114782583350699132}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114128534286880888}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114782583350699132}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114263392924878588}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 1
+  actionName: GameTableDataLocalRepositoryGenerateBuildAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResProcess.GameTableDataLocalRepositoryGenerateBuildAction
+--- !u!114 &114794967657056350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -888, y: 344}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114794967657056350}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114128534286880888}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114794967657056350}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114339230345430048}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 17
+  actionName: UploadFilesAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.UploadFilesAction
+--- !u!114 &114800401474477600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab40323f90fe8144b374ea4b9494a5a, type: 3}
+  m_Name: "\u5BFC\u51FA\u57FA\u7840\u914D\u7F6E"
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 184, y: -8}
+  ports:
+    keys:
+    - filterOutputs
+    - configName
+    values:
+    - _fieldName: filterOutputs
+      _node: {fileID: 114800401474477600}
+      _typeQualifiedName: CenturyGame.AppBuilder.Runtime.BuildPipelineConfGenerator.FilterOutput[],
+        CenturyGame.AppBuilder.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: json
+        node: {fileID: 114500001504083286}
+        reroutePoints: []
+      - fieldName: json
+        node: {fileID: 114263392924878588}
+        reroutePoints: []
+      - fieldName: json
+        node: {fileID: 114339230345430048}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: configName
+      _node: {fileID: 114800401474477600}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  filterOutputs: []
+  configName: MakeBaseVersion
+--- !u!114 &114817317328049046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -904, y: -664}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114817317328049046}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114128534286880888}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114817317328049046}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114500001504083286}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 18
+  actionName: MakeBaseVerionSetupAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.AppPrepare.MakeBaseVerionSetupAction
+--- !u!114 &114828879871842226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -888, y: 728}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114828879871842226}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114128534286880888}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114828879871842226}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114339230345430048}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 14
+  actionName: MakeAppBaseVersionAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.MakeAppBaseVersionAction
+--- !u!114 &114831542681073706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f9908d2dfaf3374fa939cad9ea5a879, type: 3}
+  m_Name: Namespace Types
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -520, y: 1256}
+  ports:
+    keys:
+    - outPut
+    values:
+    - _fieldName: outPut
+      _node: {fileID: 114831542681073706}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: filterTypes
+        node: {fileID: 114722528775219618}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  nodeType: 0
+  outPut:
+    typeNames:
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesPackageFilter
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesProcessFilter
+--- !u!114 &114835860762663780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -712, y: 1800}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114835860762663780}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114517486270027430}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114835860762663780}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114036968391486388}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 7
+  actionName: ConstructResStorageAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ConstructResStorageAction
+--- !u!114 &114846991173309900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -744, y: 1080}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114846991173309900}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114517486270027430}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114846991173309900}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114546633558411986}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 19
+  actionName: MakePatchVerionSetupAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.AppPrepare.MakePatchVerionSetupAction
+--- !u!114 &114857196041214584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -888, y: 600}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114857196041214584}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114128534286880888}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114857196041214584}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114339230345430048}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 6
+  actionName: ClearLuaBytesAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ClearLuaBytesAction
+--- !u!114 &114928830154938846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -712, y: 2312}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114928830154938846}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114517486270027430}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114928830154938846}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114036968391486388}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 6
+  actionName: ClearLuaBytesAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.ClearLuaBytesAction
+--- !u!114 &114931326474907386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a61f3fb9c6a4e64c9de81d955d997c0, type: 3}
+  m_Name: Normal Build Action
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -712, y: 2056}
+  ports:
+    keys:
+    - actionTypes
+    - actionFullName
+    values:
+    - _fieldName: actionTypes
+      _node: {fileID: 114931326474907386}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: outPut
+        node: {fileID: 114517486270027430}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: actionFullName
+      _node: {fileID: 114931326474907386}
+      _typeQualifiedName: System.String, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: actions
+        node: {fileID: 114036968391486388}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  actionTypes:
+    typeNames: []
+  actionIdx: 17
+  actionName: UploadFilesAction
+  actionFullName: CenturyGame.AppBuilder.Editor.Builds.Actions.ResPack.UploadFilesAction
+--- !u!114 &114987466018202928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f9908d2dfaf3374fa939cad9ea5a879, type: 3}
+  m_Name: Namespace Types
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -696, y: -424}
+  ports:
+    keys:
+    - outPut
+    values:
+    - _fieldName: outPut
+      _node: {fileID: 114987466018202928}
+      _typeQualifiedName: NamespaceTypesNode+NamespaceTypesOutput, CenturyGame.AppBuilder.Runtime,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: filterTypes
+        node: {fileID: 114263392924878588}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  nodeType: 0
+  outPut:
+    typeNames:
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesPackageFilter
+    - CenturyGame.AppBuilder.Editor.Builds.Filters.Concrete.ResourcesProcessFilter

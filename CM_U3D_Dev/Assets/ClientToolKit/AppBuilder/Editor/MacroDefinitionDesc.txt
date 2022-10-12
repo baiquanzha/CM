@@ -1,0 +1,9 @@
+﻿
+
+1.DEBUG_FILE_CRYPTION
+当前项目的配置文件是否加密
+
+2.DEBUG_APP_UPDATER
+调试热更新模块
+
+

@@ -1,0 +1,936 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee4bc21567f434b598a3c96ba4946372, type: 3}
+  m_Name: AssetReferenceDB
+  m_EditorClassIdentifier: 
+  m_assets:
+  - m_assetDatabaseId: 898cbbe1a48ed2743ac7c0e787c3b5d0
+    m_importFrom: Assets/GamePackageRes/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetReferenceDB.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ac613ea05376ccb4994a796a427c6cd5
+    m_importFrom: Assets/Scripts/Framework/Sound/Sound.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f856df12c981eb04db72981185e53476
+    m_importFrom: Assets/Scripts/Framework/Sound
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 67c9c34654ce48e4b99dc11d5a9958fb
+    m_importFrom: Assets/Scripts/Framework/Sound/SoundManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6b62fbf5eb6282744a91c147a2047c79
+    m_importFrom: Assets/Scenes/GameMain.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b669c2c7855ae94db39f469b5a05776
+    m_importFrom: Assets/Scripts/Framework/GameLauncher.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e15cbda749f5fd44e9d38b3bfb1d5426
+    m_importFrom: Assets/Scripts/Framework/UI/UICanvas.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7de831ac609b8284db593644c13c1dd5
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/Resources/AppUpdater.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ab4ffb1536a875b40ade2eec6dfc4446
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/States/Concretes/AppUpdateGetLighthouseConfigState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b402fb9522cb6ee4f9bc8eaa2b3eb171
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/AppUpdaterHints.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c05991cd636f0044380faa4fa7f3d090
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/Enums.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b63f9dba283b5a449b5452841f511169
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/States/Concretes/AppVersionCheckState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5588e2712dcaaf54b8fb38d7a5a44d4c
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/AssetsFileSystem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8fa1a3e294e2850498f86c352e8a4684
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/States/Concretes/AppCheckMissingResState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 925ed522160a6b443b19608dab6ed5a2
+    m_importFrom: Assets/ClientToolKit/AssetBundleManager/Runtime/AB/ABMgrHandle.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: adaff7b78307f9047812625c3341d4d6
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/UpdateResMap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 565b4bf3f8eca1a468c7b288e7da24fc
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/AppUpdaterContext.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4936ef8cc6b2f9345ba6703b33a395c7
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/AppUpdaterContext.Fields.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8c30e36ffb041f04a93e102efc2bee5f
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/States/Concretes/AppUpdateMTDataResState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15d1627020affc546907159e29e8a827
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/States/Concretes/AppUpdateDataResState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b1e1250c320895e419c85ff6ece848f9
+    m_importFrom: Assets/ClientToolKit/AppUpdaterLib/Runtime/States/Concretes/AppUpdateCompletedState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b888d64d7806574f9e88e583196094a
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/Runtime/Scripts
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 650ee974a31f07a42a5e4e0ac8fbba0a
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/Plugins
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4064f70508548544e96fc8d348039a0d
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/Runtime/Scripts/gen/netutils
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49b993352e11e594896fa23a403271b0
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/Runtime
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 475dc0f557dd37e42afddce3a2a46528
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1cef36988fad9ca4a84e418eb5e2eeeb
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/Runtime/Scripts/gen
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3938346a6b637284c80f7f55a4e92494
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/Runtime/Scripts/gen/msg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 84fa55d176c4ca145af9a9982cfaaacd
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/Plugins/System.Memory.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f706305458b6e2d4db98183ead84ada9
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/Plugins/System.Numerics.Vectors.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 972de298d30f9274886fe6049451071c
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/Plugins/System.Buffers.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e085dcc85e300994697b9117f548fe22
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/Plugins/Google.Protobuf.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f879384c84dd5e545b445846ec595ac4
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/Plugins/System.Runtime.CompilerServices.Unsafe.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: db12db6b558d67746a02c08ac29307a1
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/link.xml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 80485400666e21a4298f46b558687535
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffSimpleValueRecord.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 60909810a427133469c3b244d9d17f1d
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffBlankCell.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 41775d011e8deac49b805cc3e2580b5b
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsWorksheet.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ecf77f113da498e40a6d6e02dc2fea69
+    m_importFrom: Assets/Editor/Excel/Excel/Errors.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: deeb2e913b71126409fe83f0dca45928
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2870dfa166655b3428488a1e31fc954c
+    m_importFrom: Assets/Editor/Excel/Excel/Core/ZipWorker.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b56fb2c17690bb64bb32c3d64efe4546
+    m_importFrom: Assets/Editor/Excel/Excel/ExcelOpenXmlReader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed355dd13141fcd47939675ca99f79f1
+    m_importFrom: Assets/Editor/Excel/Excel/Core/OpenXmlFormat/XlsxWorksheet.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 134a50425e33c2743aee3344ed9a5c93
+    m_importFrom: Assets/Editor/Excel/Excel/Core/OpenXmlFormat/XlsxWorkbook.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1ee2a1c26e6e1cc4996748b05f23a6e9
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffUncalced.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f3928183a85bacb40b0a0e0d22599ed5
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsFat.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e9df649367fe81a4caa6661a52025471
+    m_importFrom: Assets/Editor/Excel/Excel/Core/OpenXmlFormat/XlsxStyles.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ee0e2bd3a7a04be42b4ed460e8fedd13
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffInterfaceHdr.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: df24fcf39edb7f54e8771c1e842fb539
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/DECOLOR.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1b32f91453a34f0409ecf9d138dfa427
+    m_importFrom: Assets/Editor/Excel/Excel/Core/Helpers.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f96f4f24e9629cc439594220b0cd4d66
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6aa80234b9f2f0a468f8f7fbbae082c4
+    m_importFrom: Assets/Editor/Excel/Excel/Core/OpenXmlFormat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c0e19274aa0fe1048901e28efda76ffa
+    m_importFrom: Assets/Editor/Excel/Excel
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 989bd6943b49d4e4080df132c708fce1
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffContinue.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: af9b3115e1e51a04890d013a8f8c43ac
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffLabelSSTCell.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0f7cf925b2728b542a802bd16606c8af
+    m_importFrom: Assets/Editor/Excel
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 342b1a25f8cda81488c983918f5310ad
+    m_importFrom: Assets/Editor/Excel/Excel/Exceptions
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e3743f2522dbb4c4eb50727d9696d760
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffNumberCell.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d7a990a5bb361c041ada07a2ba981d0c
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsRootDirectory.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9338ccf54f5ce4d4d9976804e2c72559
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/STGTY.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6f4e4d0689ba3c243be982d76e6b6f72
+    m_importFrom: Assets/Editor/Excel/Global.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ff0b4e16dfb420d46b41071e7bb384c7
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffSST.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c2b711566427f8e408601b36bfdabf4e
+    m_importFrom: Assets/Editor/Excel/AssemblyInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d43bd7c69f109be4487c5096a38265d7
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffMulRKCell.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d7b2b6f69857c8146b76a5954dfeb982
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffRKCell.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dace36071a6ca084fbfce2bfd1ec05a6
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsHeader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2afda5270031aa84b90e6638e7172d62
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffWindow1.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f274bc77e96b32f47b93105d6536d539
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffBoundSheet.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3d6635a75363c744295c1e1e912960ec
+    m_importFrom: Assets/Editor/Excel/Excel/Core/OpenXmlFormat/XlsxSST.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cfde23e7417b4ab4a85653177e84acbe
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 038caaf7df249d04a9e4c18b5345611b
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffDbCell.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f3a6e3589439a974cbcc08e01db02b13
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffRow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6c8aed2989a6e3f48b57e56f53d149fc
+    m_importFrom: Assets/Editor/Excel/Excel/Core/OpenXmlFormat/XlsxDimension.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf15d14980370ed4e8de6900b2504f4d
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsDirectoryEntry.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 78a34ab9f5d0d1042b4becd402a70b0c
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/BIFFRECORDTYPE.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6329ced93131e8d4ca625513cc327980
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffIndex.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c09d9cf9a760631428caf333b845226a
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffFormulaCell.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d53974a12f446b43b2f5de4b15f5164
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffFormatString.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2c5bd88a4ecb15842beee1cfd93baffe
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffFormulaString.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3ed285fa0a156e1468c14aeb2e72e168
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/FORMULAERROR.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e6cbafae51983648bbab3f65d32fbcf
+    m_importFrom: Assets/Editor/Excel/Excel/ExcelBinaryReader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1241a57bdf34fa643852b5356fd5bb67
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/FATMARKERS.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1eaa318b652ba2a41a7c79c03969d9ce
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffDimensions.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 72e6738b8dc3bf245a5f554a3edcedc7
+    m_importFrom: Assets/Editor/Excel/Excel/IExcelDataReader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ec62558b0293f6d4ba9fd8d885dd4d65
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffMulBlankCell.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b5989cebc59ecc948b79bdf71bb1e0db
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/BIFFTYPE.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2ab03f3ceb0f52340a06667c5c5a6bcf
+    m_importFrom: Assets/Editor/Excel/Excel/ExcelReaderFactory.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 13aed07c7f1164c49a3d099b1b3b38ea
+    m_importFrom: Assets/Editor/Excel/Excel/Core/OpenXmlFormat/XlsxXf.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a40f55acd1db95541a673ff11c16454d
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffEOF.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 735c370d94fea6c4daab77bbdc1446ca
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsWorkbookGlobals.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e19166ddb4d649943a8441a672c77a29
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffRecord.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 47f559ddd741fb4419f477c284a7fa72
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsFormattedUnicodeString.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a4c760ed69559c24faae09e3c7b85a70
+    m_importFrom: Assets/Editor/Excel/Excel/Core/OpenXmlFormat/XlsxNumFmt.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c901201e1cf05da4b8b94645fa0aee11
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffIntegerCell.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: afee505e68a97b641b9fe5df1dceaa17
+    m_importFrom: Assets/Editor/Excel/Excel/Exceptions/HeaderException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4a373c9e1aea22545bee9364a9b9f5d1
+    m_importFrom: Assets/Editor/Excel/Excel/Core
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bac834ae081a9cc4ea1586555a3707cb
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffBOF.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 03e7260fa12eb104f811513c4d84884b
+    m_importFrom: Assets/Editor/Excel/Excel/Exceptions/BiffRecordException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b24883fd42ded94ca59ea3263373e83
+    m_importFrom: Assets/Editor/Excel/Excel/Core/FormatReader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f2778eafeee3f944c94008277320e340
+    m_importFrom: Assets/Editor/Excel/Excel/Core/BinaryFormat/XlsBiffLabelCell.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0866362c8cab1ac459a8a26820a380e5
+    m_importFrom: Assets/Editor/Excel/Excel.csproj
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f0f9d107a2cafd4192698c2c7bdf4d3
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/Exceptions/StreamUnsupportedException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0079c05032d5ccc4eb022a91cce235ca
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/ZipEntry.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 95d56450c7b1bd2428dda11ce076a11b
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Checksum/Crc32.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a0fd34b04c9dad54193f4813ec048905
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Tar/TarInputStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 501d71417f395654f907ec85786ae8fc
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Tar/TarHeader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a45d0f41f49ca3a4a8c83120300d3253
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/NameFilter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f54c39519930a77409989fbf5f04e2ae
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/IEntryFactory.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d473a8618c4425d4190755bbe0c246a1
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Lzw/LzwInputStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bc0c8cc1cbda757499ed6f9b1210d9ae
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/DeflaterPending.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 477723f19911417458563ba5139c90dc
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/PendingBuffer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 130e716227d4ca74cbacd2cf4ccad225
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/GZip/GZipConstants.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d10cb2d27a02ac44da381462f219f523
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/INameTransform.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 556b05e2dc1075c4e87ef64061c7d79e
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/ZipExtraData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d2c07f0381a80844daa724b4ad9a1913
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Checksum/BZip2Crc.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc420a3350d98884489ca1ac712e1f9a
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Tar/TarBuffer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d291f33187b08346bfee5734dcca814
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/ZipConstants.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: acfb56937897c3f4a9fbf535dffc554c
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/Exceptions/ValueOutOfRangeException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ccfba334b2da138449f531d67aa7a370
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Lzw
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fba0b084b012c344392d9205c603899b
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/Streams/StreamManipulator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 73501b841a98dc444a4577e01c73144e
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/ZipOutputStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d954f394e8eb1484c9f02126586434b7
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/BZip2/BZip2.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c49e1c15857e4e847a70c1437dc56c0e
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Tar/TarException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f5dc635793f5be4896de99bd42cc48e
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/PathUtils.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 29510045a6207fe4e805475138161945
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/PathFilter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8e068e459a787ef4e9a219a532820235
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/Exceptions/UnexpectedEndOfStreamException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d7504465503703748b72d32832269fb0
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/DeflaterEngine.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d9d3f1b5003cbe141b10f912ce8a1a58
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/Streams/InflaterInputStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d4c499b5df3934d4294af94c05a52583
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Tar/TarExtendedHeaderReader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: df7e70d5e663e4f45967bbeb1a3bf356
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/ZipHelperStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d9f054f5a7bbcd74389d186c87a6a792
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Tar/InvalidHeaderException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9a854a169d30860449f4f6838362fa81
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/ZipNameTransform.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0a07b526a55de714b84ef3053bf2689a
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/GZip/GZip.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6e3d792654ac5724c81fc964cf8799ec
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/GZip/GzipInputStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 54dc50468191aa84882c49872f323813
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/ZipInputStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 55d6c056b5518874dbbf1a48260cd27a
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Encryption/ZipAESStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8dfadc76b6ecdbd40a52183ac6e7461b
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Encryption/PkzipClassic.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d2ce81e6c965d8f419ea578c7c5762e8
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/Streams
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9b0f6817fb4c30844b16d168358c5d83
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/Exceptions
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8aa6d627da988b941b001b5e076c0945
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a6c4f537b2a474541ade0a1485efa485
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/FastZip.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0b5e4047e93d62f4c867660264ddfc1c
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Encryption
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7846df6707912ce45b1178408ad33b0c
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/Exceptions/SharpZipBaseException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2317011866ae9fc429633db75b1aac21
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/InvalidNameException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2655a318f2ca4a24980d4e0974b4b5b9
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Lzw/LzwConstants.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e72271803ab73d4dbc60560824dc490
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Tar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5542937868c28b14485c19f7feb0cae2
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/GZip
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11202db80c09ed549852ba065ed50b17
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 015150e83bde93f48b4edb5641d4732a
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/ZipException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 77be36d9b3ba6344d8f4a9199f902273
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/Streams/DeflaterOutputStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d75748f9b0a5e2f4296aa6486062a04c
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Lzw/LzwException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 475e2ff9b2ffc5141b1488eb5645a08a
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/IScanFilter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1ec78c5a569d33944990bd236d9d1490
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/ZipFile.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 221f607aad30445489f777884824c18f
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/BZip2
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 385547dac2a7daa4797f4b0b8df8cef6
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35bace7b787b85041be6889e07dc4f64
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/InflaterDynHeader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e5c4ecab3116ed84f88878b65fb58ce7
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/ZipEncryptionMethod.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 565996bb6c3dec541bead1c5dbe5c516
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Encryption/ZipAESTransform.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9fc3bacbae4e77d4ca706ae55c0dae9d
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/DeflaterConstants.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7d70c10c88e7e2a4b96cbc9760bfb658
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/Inflater.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c280d91c8ca60614b820d948a7f48aea
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Checksum
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2247fe4cad5a58e4fba776ea86a7a4a5
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Tar/TarArchive.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 37b9395cf070d3d4d9f3be5721ff6e4e
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Tar/TarOutputStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 20e6c17cb55802f4c8a37b73d3d1e3a4
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Checksum/Adler32.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 55def0dcab2d838499f6e3fb92dcdc0e
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/ZipEntryFactory.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3d36250d35b7bd74e9a2e9c7075e945e
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/ZipStrings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2e01673d17eb1bc4ba7933fc28b8f7fd
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/BZip2/BZip2InputStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4993da4d519a14f40a20c01336aae3ca
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/GZip/GzipOutputStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 76eb2c4d4205ade48a3a1e4f417deea9
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/Deflater.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 094f147d31e52934ea7f262b76c744f6
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/BZip2/BZip2Constants.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c4fd8ebdb7df1b24490537cee4543d56
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/StreamUtils.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e7bb1ed8bc921741a028b27fad9c9e4
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Checksum/IChecksum.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8bf398ed1d25c1b4aa7819fef09df1ec
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/FileSystemScanner.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 555ce50e7c5b8034a9e8177242d67ed0
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Checksum/CrcUtilities.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a1f1b31ea3bb5de409b2c999d3fc3d9d
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/DeflaterHuffman.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8d0ab02e59908ab4ab49e8a0cb9bbb81
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/WindowsNameTransform.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bd8b568e972d34742859f70d8e34a0e0
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/InflaterHuffmanTree.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fdcd059e1ec73584aaabe21b5e1604e9
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/BZip2/BZip2Exception.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2d5a160fa108b734bbbd0c6fc164e475
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Core/Exceptions/StreamDecodingException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ef47922fb418f894a92e881eb3a296af
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/BZip2/BZip2OutputStream.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 94b9184f431fb924c8c680d2b722fe34
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression/Streams/OutputWindow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 81602d9f9815c80488d09c1cb896c0c0
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/GZip/GZipException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 777ca7afdecfb5d41a9bbdbe550b3df6
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Tar/TarEntry.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b4d62ef36eaed64e80198e3db9137ea
+    m_importFrom: Assets/ClientToolKit/ICSharpCode.SharpZipLib/Zip/Compression
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 160b410835d1b5e46af37ecb83839648
+    m_importFrom: Assets/Editor/EditorI18N.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 21bf14d07fd28fe4888920a66644f005
+    m_importFrom: Assets/Thirds/LitJson/Lexer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ea496301e5dac4543bea3654da0f5fef
+    m_importFrom: Assets/Thirds/LitJson/ParserToken.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 21a2197130e289548b460973ea1d31ed
+    m_importFrom: Assets/Thirds/LitJson/IJsonWrapper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c43ed6d25b0e7e742a7dcb00761c15c3
+    m_importFrom: Assets/Thirds/LitJson/JsonData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3a7ecd8716aa73c40a9bc7ea75b78aef
+    m_importFrom: Assets/Thirds/LitJson/JsonException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a271aec74ce41fb4c96b59ce4b5f6861
+    m_importFrom: Assets/Thirds/LitJson/Netstandard15Polyfill.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c23d2c9ac2ce5cd4f8af0a25055b8d23
+    m_importFrom: Assets/Thirds/LitJson/JsonReader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92d3efaae01d06c4591e59bc6b5732fe
+    m_importFrom: Assets/Thirds/LitJson
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: affdda6c4d7f2c548825fa66dfebf0a4
+    m_importFrom: Assets/Thirds/LitJson/JsonWriter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f769917c878fa99459a9007f187e8d36
+    m_importFrom: Assets/Thirds/LitJson/JsonMockWrapper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8a69ebdee4bc03646aa2a0c55ba43a87
+    m_importFrom: Assets/Thirds/LitJson/JsonMapper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5ae51e460a02bbe49a6958a142366e2c
+    m_importFrom: Assets/Thirds/LitJson/AssemblyInfo.cs.in
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4224df6e20549f0449154531ae080201
+    m_importFrom: Assets/Thirds/Spine/Runtime/spine-unity/Asset Types/SkeletonDataCompatibility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49377c72c37e2c149b106c260a241f3c
+    m_importFrom: Assets/Thirds/Spine/Editor/spine-unity/Editor/Utility/AssetUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ea14dd228ec6fb04f86f13986cd4a469
+    m_importFrom: Assets/ResourcesAB/Config/BundleConf.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2a9027867fc94c9449442b722ddabc19
+    m_importFrom: Assets/ResourcesAB/Config/ShopConf.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b82517f797ecf9642bc0a1e3ad046b32
+    m_importFrom: Assets/ResourcesAB/Config/BuildingConf.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 69364c6f5787c6747bdfd123bb6b4c71
+    m_importFrom: Assets/ResourcesAB/Config/ItemConf.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 25a1953290bcf714e88d9801e2b89103
+    m_importFrom: Assets/ResourcesAB/Atlas/atlas_common.spriteatlas
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b16558c7034bfb54f976700d1bfdf1c2
+    m_importFrom: Assets/GameResources/UI/common/btn_hong1.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e8290b89dce864145a478c67d7e11ba8
+    m_importFrom: Assets/GameResources/UI/common/btn_hui1.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 025215ec7eddd074f8586f3d2d7f7286
+    m_importFrom: Assets/GameResources/UI/common/btn_lan1.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a032e3146355394e8f14c8fa8369fbc
+    m_importFrom: Assets/GameResources/UI/common/btn_lv1.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d0366acded7297d4ebb3e27999bd4956
+    m_importFrom: Assets/GameResources/UI/common/common_close.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aea492e9e1d6cf847bc93c332661995d
+    m_importFrom: Assets/GameResources/UI/common/common_di1.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6029a6a9efc39634c8b50a8794d68f3a
+    m_importFrom: Assets/GameResources/UI/common/common_di2.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 54f55cd30c466c2449c6750aade73b6a
+    m_importFrom: Assets/GameResources/UI/common/common_hd.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ca17faa86a2acd945a89e81cc625ff60
+    m_importFrom: Assets/GameResources/UI/common/frame1.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 556bea3d8d2d2a94c8e429e1e1ddc576
+    m_importFrom: Assets/GameResources/UI/common/frame2.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 60706564f340ade4b86a413b98d31475
+    m_importFrom: Assets/GameResources/UI/common/frame3.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3f1909c3b81fe384d8a8c42720768b53
+    m_importFrom: Assets/GameResources/UI/common/frame4.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 36fea6dbad4f9964591b62e2a07a9e80
+    m_importFrom: Assets/GameResources/UI/common/qipao.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: efc6a22059e7c2640968a2d0cb5015ed
+    m_importFrom: Assets/XLua/Src/Editor/Config/CustomWrapConfig.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2e53fde0f665c1d4d984d848550b6ea6
+    m_importFrom: Assets/Scripts/Framework/Cryptography/Aes.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d62ff72db22ba4d49b44f99d0901cdde
+    m_importFrom: Assets/Scripts/Framework/Cryptography/X25519.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ecf63af5f96c8e14ea48e7857845c550
+    m_importFrom: Assets/Scripts/Util/GameObjectUtil.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fe1a01f117808044f811b1f177717985
+    m_importFrom: Assets/Scripts/Framework/Base/Singleton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 86d8d697da5aec64e9587572b2dfdc58
+    m_importFrom: Assets/Scripts/Framework/Lua/LuaManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1dc4071aa9862384baeba98a38727420
+    m_importFrom: Assets/Scripts/Framework/Lua/LuaBehaviour.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aeb037dae1116e14cbf5845f2d8b9793
+    m_importFrom: Assets/Scripts/Framework/Lua/LuaMono.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 559826bdca1b6334eb7bf4f753e932b5
+    m_importFrom: Assets/Scripts/Framework/Lua
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e6e9bc0a40c61024e901fe7e15004ccb
+    m_importFrom: Assets/Scripts/Framework/Network/TcpClient.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 74abaadc07d038b41b83d32c63383ec2
+    m_importFrom: Assets/Scripts/Framework/Network/NetworkManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 989174472da0e874fb6136ba7052fc52
+    m_importFrom: Assets/ClientToolKit/ProtokitHelper/Runtime/Scripts/ProtokitMsgProcessor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de5079fbc0094b6418928b54e846920a
+    m_importFrom: Assets/Scripts/Framework/Cryptography
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9e00911689d29bf4d88c1e090761106c
+    m_importFrom: Assets/Scripts/Util/ToolUtil.cs
+    m_exportTo: 
+    m_variantName: 
+  m_version: 2

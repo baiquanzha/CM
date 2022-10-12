@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1045225060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d77f2f3e5fb9037e0ae3e50c719b2fa9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesAB/Atlas/atlas_common.spriteatlas
+Dependencies:
+- D:/MyGame/GameUnity/Assets/GamePackageRes/AssetGraph/AssetBundles/Cache/AssetBundles/eeec5a97-d88b-468a-9317-352f208ff372/Android/as_common

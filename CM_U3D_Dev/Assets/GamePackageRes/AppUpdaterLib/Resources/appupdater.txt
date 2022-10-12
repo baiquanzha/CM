@@ -1,0 +1,8 @@
+{
+    "cdnUrl": "https://mergeworld-cdn.akamaized.net",
+    "ossUrl": "https://mergeworld-cdn.s3.amazonaws.com",
+    "channel": "koala-dev",
+    "remoteRoot": "",
+    "skipAppUpdater": false,
+    "localDataRoot": "gen/conf/rawdata"
+}

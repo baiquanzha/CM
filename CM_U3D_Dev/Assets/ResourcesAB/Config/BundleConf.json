@@ -1,0 +1,2078 @@
+
+[
+    {
+        "bundleId" : 1,
+        "productName" : "Starter Bundle I",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                1,
+                100
+            ],
+            [
+                2,
+                100
+            ],
+            [
+                4,
+                100
+            ]
+        ],
+        "iapId"          : 9,
+        "limit"          : 1,
+        "time"           : 604800,
+        "des"            : "A special offer for new players",
+        "tagName"        : "70%\nOFF",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 0,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 2,
+        "productName" : "Starter Bundle",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                1,
+                600
+            ],
+            [
+                2,
+                600
+            ]
+        ],
+        "iapId"          : 43,
+        "limit"          : 1,
+        "time"           : 604800,
+        "des"            : "A special offer for new players",
+        "tagName"        : "20%\nOFF",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 0,
+        "uiType"          : 2
+    },
+    {
+        "bundleId" : 3,
+        "productName" : "Gorgeous Bundle",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                1,
+                400
+            ],
+            [
+                2,
+                1575
+            ],
+            [
+                4,
+                420
+            ]
+        ],
+        "iapId"          : 12,
+        "limit"          : 1,
+        "time"           : 604800,
+        "des"            : "",
+        "tagName"        : "20%\nOFF",
+        "iconRes"        : "",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 0,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 4,
+        "productName" : "Starter Bundle II",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                1,
+                300
+            ],
+            [
+                2,
+                200
+            ],
+            [
+                4,
+                100
+            ]
+        ],
+        "iapId"          : 41,
+        "limit"          : 1,
+        "time"           : 604800,
+        "des"            : "A special offer for new players",
+        "tagName"        : "70%\nOFF",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 0,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 5,
+        "productName" : "Starter Bundle III",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                1,
+                1400
+            ],
+            [
+                2,
+                1400
+            ]
+        ],
+        "iapId"          : 42,
+        "limit"          : 1,
+        "time"           : 604800,
+        "des"            : "A special offer for new players",
+        "tagName"        : "1.7X\nVALUE!",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 0,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 51,
+        "productName" : "Limited Pack I",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            1,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                405
+            ],
+            [
+                4,
+                120
+            ]
+        ],
+        "iapId"          : 13,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 52,
+        "productName" : "Coin Pack I",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                1,
+                500
+            ],
+            [
+                4,
+                550
+            ]
+        ],
+        "iapId"          : 14,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 0,
+        "uiType"          : 2
+    },
+    {
+        "bundleId" : 101,
+        "productName" : "Energy Pack I",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            2,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                40
+            ],
+            [
+                2,
+                200
+            ],
+            [
+                4,
+                300
+            ]
+        ],
+        "iapId"          : 15,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 102,
+        "productName" : "Coin Pack I",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            2,
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                30
+            ],
+            [
+                2,
+                1200
+            ],
+            [
+                4,
+                80
+            ]
+        ],
+        "iapId"          : 16,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 103,
+        "productName" : "Diamond Pack I",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            2,
+            3
+        ],
+        "product"        : [
+            [
+                1,
+                200
+            ],
+            [
+                2,
+                350
+            ],
+            [
+                4,
+                100
+            ]
+        ],
+        "iapId"          : 17,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 111,
+        "productName" : "Energy Pack II",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            1,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                100
+            ],
+            [
+                2,
+                500
+            ],
+            [
+                4,
+                650
+            ]
+        ],
+        "iapId"          : 18,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 2
+    },
+    {
+        "bundleId" : 112,
+        "productName" : "Coin Pack II",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            1,
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                100
+            ],
+            [
+                2,
+                3000
+            ],
+            [
+                4,
+                80
+            ]
+        ],
+        "iapId"          : 19,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 2
+    },
+    {
+        "bundleId" : 113,
+        "productName" : "Diamond Pack II",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            1,
+            3
+        ],
+        "product"        : [
+            [
+                1,
+                700
+            ],
+            [
+                2,
+                300
+            ],
+            [
+                4,
+                80
+            ]
+        ],
+        "iapId"          : 20,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 2
+    },
+    {
+        "bundleId" : 121,
+        "productName" : "Energy Pack III",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            2,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                120
+            ],
+            [
+                2,
+                500
+            ],
+            [
+                4,
+                1000
+            ]
+        ],
+        "iapId"          : 21,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 122,
+        "productName" : "Coin Pack III",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            2,
+            2
+        ],
+        "product"        : [
+            [
+                2,
+                5000
+            ],
+            [
+                4,
+                100
+            ]
+        ],
+        "iapId"          : 22,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 123,
+        "productName" : "Diamond Pack III",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            2,
+            3
+        ],
+        "product"        : [
+            [
+                1,
+                1150
+            ],
+            [
+                2,
+                200
+            ]
+        ],
+        "iapId"          : 23,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 131,
+        "productName" : "Energy Pack IV",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            3,
+            1
+        ],
+        "product"        : [
+            [
+                2,
+                200
+            ],
+            [
+                4,
+                1500
+            ]
+        ],
+        "iapId"          : 24,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 132,
+        "productName" : "Diamond Pack IV",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            3,
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                1350
+            ],
+            [
+                2,
+                200
+            ],
+            [
+                4,
+                100
+            ]
+        ],
+        "iapId"          : 25,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 141,
+        "productName" : "Energy Pack V",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            4,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                100
+            ],
+            [
+                2,
+                1000
+            ],
+            [
+                4,
+                2000
+            ]
+        ],
+        "iapId"          : 26,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 142,
+        "productName" : "Diamond Pack V",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            4,
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                2200
+            ],
+            [
+                2,
+                300
+            ]
+        ],
+        "iapId"          : 27,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 151,
+        "productName" : "Energy Pack VI",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            5,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                180
+            ],
+            [
+                2,
+                1200
+            ],
+            [
+                4,
+                3000
+            ]
+        ],
+        "iapId"          : 28,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 152,
+        "productName" : "Diamond Pack VI",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            5,
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                3300
+            ],
+            [
+                2,
+                300
+            ]
+        ],
+        "iapId"          : 29,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 161,
+        "productName" : "Energy Pack VII",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            6,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                550
+            ],
+            [
+                2,
+                3050
+            ],
+            [
+                4,
+                4500
+            ]
+        ],
+        "iapId"          : 30,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 162,
+        "productName" : "Diamond Pack VII",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            6,
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                5500
+            ],
+            [
+                2,
+                450
+            ]
+        ],
+        "iapId"          : 31,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 301,
+        "productName" : "Starter Bundle I",
+        "activeType"  : 1,
+        "bundlePosition" : [
+            1,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                60
+            ],
+            [
+                4,
+                100
+            ]
+        ],
+        "iapId"          : 9,
+        "limit"          : 1,
+        "time"           : 172800,
+        "des"            : "A special offer for new players",
+        "tagName"        : "350%\nVALUE!",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            1,
+            2065
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 302,
+        "productName" : "Starter Bundle II",
+        "activeType"  : 1,
+        "bundlePosition" : [
+            1,
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                280
+            ],
+            [
+                2,
+                600
+            ]
+        ],
+        "iapId"          : 41,
+        "limit"          : 1,
+        "time"           : 172800,
+        "des"            : "A special offer for new players",
+        "tagName"        : "210%\nVALUE!",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            1,
+            2065
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 303,
+        "productName" : "Starter Bundle III",
+        "activeType"  : 1,
+        "bundlePosition" : [
+            1,
+            3
+        ],
+        "product"        : [
+            [
+                1,
+                200
+            ],
+            [
+                2,
+                1600
+            ]
+        ],
+        "iapId"          : 42,
+        "limit"          : 1,
+        "time"           : 172800,
+        "des"            : "A special offer for new players",
+        "tagName"        : "200%\nVALUE!",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            1,
+            2065
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 304,
+        "productName" : "Starter Bundle I",
+        "activeType"  : 1,
+        "bundlePosition" : [
+            2,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                60
+            ],
+            [
+                4,
+                100
+            ]
+        ],
+        "iapId"          : 9,
+        "limit"          : 1,
+        "time"           : 172800,
+        "des"            : "A special offer for new players",
+        "tagName"        : "350%\nVALUE!",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 305,
+        "productName" : "Starter Bundle II",
+        "activeType"  : 1,
+        "bundlePosition" : [
+            2,
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                280
+            ],
+            [
+                2,
+                600
+            ]
+        ],
+        "iapId"          : 41,
+        "limit"          : 1,
+        "time"           : 172800,
+        "des"            : "A special offer for new players",
+        "tagName"        : "210%\nVALUE!",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 306,
+        "productName" : "Starter Bundle III",
+        "activeType"  : 1,
+        "bundlePosition" : [
+            2,
+            3
+        ],
+        "product"        : [
+            [
+                1,
+                200
+            ],
+            [
+                2,
+                1600
+            ]
+        ],
+        "iapId"          : 42,
+        "limit"          : 1,
+        "time"           : 172800,
+        "des"            : "A special offer for new players",
+        "tagName"        : "200%\nVALUE!",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 311,
+        "productName" : "Coin Pack I",
+        "activeType"  : 2,
+        "bundlePosition" : [
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                30
+            ],
+            [
+                2,
+                1300
+            ],
+            [
+                4,
+                80
+            ]
+        ],
+        "iapId"          : 16,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 312,
+        "productName" : "Diamond Pack I",
+        "activeType"  : 2,
+        "bundlePosition" : [
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                300
+            ],
+            [
+                4,
+                80
+            ]
+        ],
+        "iapId"          : 17,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 313,
+        "productName" : "Diamond Pack I",
+        "activeType"  : 2,
+        "bundlePosition" : [
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                405
+            ],
+            [
+                4,
+                120
+            ]
+        ],
+        "iapId"          : 49,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 314,
+        "productName" : "Coin Pack I",
+        "activeType"  : 2,
+        "bundlePosition" : [
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                200
+            ],
+            [
+                2,
+                1450
+            ]
+        ],
+        "iapId"          : 50,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 315,
+        "productName" : "Diamond Pack II",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            1,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                300
+            ],
+            [
+                2,
+                300
+            ]
+        ],
+        "iapId"          : 16,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 316,
+        "productName" : "Coin Pack II",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            1,
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                90
+            ],
+            [
+                2,
+                1200
+            ]
+        ],
+        "iapId"          : 17,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 317,
+        "productName" : "Diamond Pack II",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            2,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                650
+            ],
+            [
+                2,
+                300
+            ]
+        ],
+        "iapId"          : 65,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 2
+    },
+    {
+        "bundleId" : 318,
+        "productName" : "Coin Pack II",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            2,
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                100
+            ],
+            [
+                2,
+                2800
+            ]
+        ],
+        "iapId"          : 66,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 2
+    },
+    {
+        "bundleId" : 321,
+        "productName" : "Diamond Pack II",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            3,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                900
+            ],
+            [
+                2,
+                300
+            ]
+        ],
+        "iapId"          : 51,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 2
+    },
+    {
+        "bundleId" : 322,
+        "productName" : "Coin Pack II",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            3,
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                100
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                4,
+                80
+            ]
+        ],
+        "iapId"          : 52,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 2
+    },
+    {
+        "bundleId" : 331,
+        "productName" : "Coin Pack III",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            4,
+            1
+        ],
+        "product"        : [
+            [
+                2,
+                5000
+            ],
+            [
+                4,
+                200
+            ]
+        ],
+        "iapId"          : 22,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 332,
+        "productName" : "Diamond Pack III",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            4,
+            2
+        ],
+        "product"        : [
+            [
+                1,
+                1200
+            ],
+            [
+                2,
+                460
+            ]
+        ],
+        "iapId"          : 23,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 341,
+        "productName" : "Diamond Pack IV",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            5,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                1080
+            ],
+            [
+                2,
+                4000
+            ]
+        ],
+        "iapId"          : 53,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 351,
+        "productName" : "Diamond Pack V",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            6,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                1200
+            ],
+            [
+                2,
+                2180
+            ],
+            [
+                4,
+                300
+            ]
+        ],
+        "iapId"          : 27,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 361,
+        "productName" : "Diamond Pack VI",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            7,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                3300
+            ],
+            [
+                2,
+                300
+            ]
+        ],
+        "iapId"          : 29,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 371,
+        "productName" : "Diamond Pack VII",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            8,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                4200
+            ],
+            [
+                2,
+                1300
+            ]
+        ],
+        "iapId"          : 47,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 381,
+        "productName" : "Diamond Pack VIII",
+        "activeType"  : 3,
+        "bundlePosition" : [
+            9,
+            1
+        ],
+        "product"        : [
+            [
+                1,
+                5500
+            ],
+            [
+                2,
+                450
+            ]
+        ],
+        "iapId"          : 31,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb1",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 1,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 200,
+        "productName" : "Build Bundle",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                12034,
+                3
+            ],
+            [
+                4,
+                300
+            ]
+        ],
+        "iapId"          : 32,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "40%\nMORE",
+        "iconRes"        : "icon_hdlb3",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            3,
+            1006,
+            1
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 201,
+        "productName" : "Treasure Bundle",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                1,
+                500
+            ],
+            [
+                2,
+                1000
+            ],
+            [
+                4,
+                100
+            ]
+        ],
+        "iapId"          : 33,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "30%\nMORE",
+        "iconRes"        : "icon_hdlb2",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            3,
+            1004,
+            1
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 2
+    },
+    {
+        "bundleId" : 210,
+        "productName" : "Booster Pack",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                12050,
+                5
+            ],
+            [
+                12023,
+                2
+            ]
+        ],
+        "iapId"          : 34,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "1.6X\nVALUE!",
+        "iconRes"        : "icon_hdlb2",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            10,
+            1
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 220,
+        "productName" : "Unicorn Event Bundle",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                1,
+                1250
+            ],
+            [
+                2,
+                500
+            ]
+        ],
+        "iapId"          : 36,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "45%\nMORE",
+        "iconRes"        : "icon_hdlb2",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            3,
+            1003,
+            1
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 250,
+        "productName" : "Energy Booster",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                4,
+                300
+            ]
+        ],
+        "iapId"          : 44,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "",
+        "bundleType"     : 0,
+        "unlockCondition" : [
+            0
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 391,
+        "productName" : "Happy Weekday Bundle",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                1,
+                1000
+            ],
+            [
+                4,
+                400
+            ]
+        ],
+        "iapId"          : 48,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb4",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            6,
+            7
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 230,
+        "productName" : "Event Island Bundle",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                1,
+                1250
+            ],
+            [
+                2,
+                500
+            ]
+        ],
+        "iapId"          : 54,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb2",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            3,
+            1010,
+            3
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 231,
+        "productName" : "Event Island Bundle",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                1,
+                1250
+            ],
+            [
+                2,
+                500
+            ]
+        ],
+        "iapId"          : 54,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb2",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            3,
+            1011,
+            3
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 392,
+        "productName" : "Happy Weekend Bundle",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                1,
+                900
+            ],
+            [
+                2,
+                1000
+            ],
+            [
+                4,
+                300
+            ]
+        ],
+        "iapId"          : 55,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb2",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            7,
+            7
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 3
+    },
+    {
+        "bundleId" : 393,
+        "productName" : "Event Energy Booster I",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                8,
+                120
+            ]
+        ],
+        "iapId"          : 56,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb4",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            9,
+            0,
+            1
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 394,
+        "productName" : "Event Energy Booster II",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                8,
+                350
+            ]
+        ],
+        "iapId"          : 57,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb4",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            9,
+            0,
+            2
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 395,
+        "productName" : "Power Build Bundle",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                12034,
+                1
+            ],
+            [
+                1,
+                500
+            ],
+            [
+                4,
+                100
+            ]
+        ],
+        "iapId"          : 58,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb3",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            3,
+            1002,
+            2
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 2
+    },
+    {
+        "bundleId" : 396,
+        "productName" : "Energy Booster I",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                4,
+                330
+            ]
+        ],
+        "iapId"          : 59,
+        "limit"          : 1,
+        "time"           : -1,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb4",
+        "bundleType"     : 2,
+        "unlockCondition" : [
+            8,
+            6,
+            8
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 397,
+        "productName" : "Energy Booster II",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                4,
+                500
+            ]
+        ],
+        "iapId"          : 60,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb4",
+        "bundleType"     : 2,
+        "unlockCondition" : [
+            8,
+            6,
+            2
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 398,
+        "productName" : "Coins Day Boost",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                2,
+                1000
+            ],
+            [
+                4,
+                450
+            ]
+        ],
+        "iapId"          : 61,
+        "limit"          : 1,
+        "time"           : 86400,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb4",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            3,
+            1012,
+            2
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    },
+    {
+        "bundleId" : 399,
+        "productName" : "Mini Energy Pack",
+        "activeType"  : 0,
+        "bundlePosition" : [
+            0
+        ],
+        "product"        : [
+            [
+                4,
+                120
+            ]
+        ],
+        "iapId"          : 64,
+        "limit"          : 1,
+        "time"           : 7200,
+        "des"            : "",
+        "tagName"        : "",
+        "iconRes"        : "icon_hdlb4",
+        "bundleType"     : 1,
+        "unlockCondition" : [
+            1,
+            3015
+        ],
+        "followProduct"   : 0,
+        "isPop"           : 1,
+        "uiType"          : 1
+    }
+]

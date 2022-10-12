@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.377</ProjectVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>81c0ca40-07f5-41a8-b9f9-1cc516b69176</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <AssemblyName>Excel</AssemblyName>
+    <OutputType>Library</OutputType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Reference Include="System.Data" />
+    <Reference Include="System" />
+    <Reference Include="ICSharpCode.SharpZipLib" />
+    <Reference Include="System.Xml" />
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\STGTY.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\DECOLOR.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\FATMARKERS.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\BIFFTYPE.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\BIFFRECORDTYPE.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\FORMULAERROR.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffRecord.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffBlankCell.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffBOF.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffBoundSheet.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffContinue.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffDbCell.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffDimensions.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffEOF.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffFormatString.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffNumberCell.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffFormulaCell.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffFormulaString.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffIndex.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffIntegerCell.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffInterfaceHdr.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffLabelCell.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffLabelSSTCell.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffMulBlankCell.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffMulRKCell.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffRKCell.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffRow.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffSimpleValueRecord.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffSST.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsStream.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffStream.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffUncalced.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsBiffWindow1.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsDirectoryEntry.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsFormattedUnicodeString.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsRootDirectory.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsWorkbookGlobals.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsWorksheet.cs" />
+    <Compile Include="Excel\Core\FormatReader.cs" />
+    <Compile Include="Excel\Core\Helpers.cs" />
+    <Compile Include="Excel\Core\OpenXmlFormat\XlsxDimension.cs" />
+    <Compile Include="Excel\Core\OpenXmlFormat\XlsxNumFmt.cs" />
+    <Compile Include="Excel\Core\OpenXmlFormat\XlsxSST.cs" />
+    <Compile Include="Excel\Core\OpenXmlFormat\XlsxStyles.cs" />
+    <Compile Include="Excel\Core\OpenXmlFormat\XlsxWorkbook.cs" />
+    <Compile Include="Excel\Core\OpenXmlFormat\XlsxWorksheet.cs" />
+    <Compile Include="Excel\Core\OpenXmlFormat\XlsxXf.cs" />
+    <Compile Include="Excel\Core\ZipWorker.cs" />
+    <Compile Include="Excel\Exceptions\BiffRecordException.cs" />
+    <Compile Include="Excel\Exceptions\HeaderException.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsFat.cs" />
+    <Compile Include="Excel\Core\BinaryFormat\XlsHeader.cs" />
+    <Compile Include="Excel\Errors.cs" />
+    <Compile Include="Excel\IExcelDataReader.cs" />
+    <Compile Include="Excel\ExcelBinaryReader.cs" />
+    <Compile Include="Excel\ExcelReaderFactory.cs" />
+    <Compile Include="Excel\ExcelOpenXmlReader.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 109946236
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: atlas/atlas_common
+      Dependencies:
+        Dependency_0: as_common
+    Info_1:
+      Name: as_common
+      Dependencies: {}
